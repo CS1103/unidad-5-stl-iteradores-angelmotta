@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/angelinux/CLionProjects/unidad-5-stl-iteradores-angelmotta/iteradores-gitLab/Progression.h
+
+/Users/angelinux/CLionProjects/unidad-5-stl-iteradores-angelmotta/iteradores-gitLab/geoProgression.h
+
+/Users/angelinux/CLionProjects/unidad-5-stl-iteradores-angelmotta/iteradores-gitLab/main.cpp
+iostream
+-
+Progression.h
+/Users/angelinux/CLionProjects/unidad-5-stl-iteradores-angelmotta/iteradores-gitLab/Progression.h
+geoProgression.h
+/Users/angelinux/CLionProjects/unidad-5-stl-iteradores-angelmotta/iteradores-gitLab/geoProgression.h
+
